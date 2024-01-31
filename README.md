@@ -1,4 +1,4 @@
-# tadhon.github.io
+# བཤེར་འབེབས་ལས་གཞི་དང་འབྲེལ་བའི་མཁོ་ཆས་རྣམས།
 
 ## Checklists for Digitizing workflow
 
@@ -8,6 +8,6 @@ Library Terms
 
 ## Shelf Numbers
 
-![Alt text](relative/path/to/image.png)
+![Alt text](https://raw.githubusercontent.com/tadhondup/tadhon.github.io/main/docs/img/shelf%20numbers.png)
 
 
