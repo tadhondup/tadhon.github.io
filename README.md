@@ -6,6 +6,8 @@
 
 ![image](https://raw.githubusercontent.com/tadhondup/tadhon.github.io/main/docs/img/02.png)
 
+![image](https://raw.githubusercontent.com/tadhondup/tadhon.github.io/main/docs/img/04.png)
+
 ### དཔེ་མཛོད་ཀྱི་ཐ་སྙད་ངོ་སྤྲོད། དབྱིན་ཡིག
 
 ![image](https://raw.githubusercontent.com/tadhondup/tadhon.github.io/main/docs/img/01.png)
