@@ -4,7 +4,7 @@
 
 Library Terms
 
-![Alt text]([relative/path/to/image.png](https://github.com/tadhondup/tadhon.github.io/blob/main/images/library%20terms.png)https://github.com/tadhondup/tadhon.github.io/blob/main/images/library%20terms.png)
+![Alt text](https://raw.githubusercontent.com/tadhondup/tadhon.github.io/main/docs/img/library%20terms.png)
 
 ## Shelf Numbers
 
