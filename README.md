@@ -8,7 +8,7 @@
 
 ### དཔེ་མཛོད་ཀྱི་ཐ་སྙད་ངོ་སྤྲོད། དབྱིན་ཡིག
 
-![image](https://github.com/tadhondup/tadhon.github.io/blob/main/docs/img/01.png)
+![image](https://raw.githubusercontent.com/tadhondup/tadhon.github.io/main/docs/img/01.png)
 
 ### དཔེ་སྒམ་ཨང་ངོ་སྤྲོད།
 
