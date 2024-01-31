@@ -4,7 +4,7 @@
 
 ### དཔེ་མཛོད་ཀྱི་ཐ་སྙད་ངོ་སྤྲོད། བོད་ཡིག
 
-![image]()
+![image](https://github.com/tadhondup/tadhon.github.io/blob/main/docs/img/library%20terms.png)
 
 ### དཔེ་མཛོད་ཀྱི་ཐ་སྙད་ངོ་སྤྲོད། དབྱིན་ཡིག
 
@@ -12,4 +12,4 @@
 
 ### དཔེ་སྒམ་ཨང་ངོ་སྤྲོད།
 
-![image]()
+![image](https://github.com/tadhondup/tadhon.github.io/blob/main/docs/img/shelf%20numbers.png)
