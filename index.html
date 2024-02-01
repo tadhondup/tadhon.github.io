@@ -1,9 +1,12 @@
 index.html
+Certainly! If you want the vertical navigation bar just under the title, you can move the `nav` element below the `header` element. Here's the modified HTML code:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=2.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your GitHub Page</title>
     <style>
         body {
@@ -13,14 +16,29 @@ index.html
             box-sizing: border-box;
         }
         header {
-            background-color: #3CB371;
+            background-color: #333;
             color: white;
             text-align: center;
             padding: 1em;
         }
         nav {
-            background-color: #4ebeef;
+            background-color: #555;
             padding: 1em;
+            text-align: center;
+        }
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        nav li {
+            margin-bottom: 10px; /* Adjust the spacing between each list item */
+        }
+        nav a {
+            text-decoration: none;
+            color: white;
+            font-size: 18px; /* Adjust the font size */
+            display: block;
         }
         section {
             padding: 2em;
@@ -39,7 +57,7 @@ index.html
 <body>
 
     <header>
-        <h1>སློབ་གསོའི་གཞིས་ཀ</h1>
+        <h1>Your GitHub Page</h1>
     </header>
 
     <nav>
@@ -52,7 +70,7 @@ index.html
     </nav>
 
     <section id="home">
-        <h2>ངེད་སློབ་གསོའི་གཞས་ཀ་ལ་ཕེབས་པར་དགའ་བསུ་ཞུ།</h2>
+        <h2>Welcome to Our GitHub Page</h2>
         <p>This is the home section of your GitHub page.</p>
     </section>
 
@@ -77,3 +95,6 @@ index.html
 
 </body>
 </html>
+```
+
+Now, the navigation bar is positioned just below the title in the header. Feel free to adjust the styling further as needed.
