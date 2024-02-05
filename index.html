@@ -12,10 +12,16 @@
             box-sizing: border-box;
         }
         header {
-            background-color: #333;
+            background-image: url('your-image-path.jpg'); /* Replace 'your-image-path.jpg' with the actual path to your image */
+            background-size: cover;
+            background-position: center;
             color: white;
             text-align: center;
             padding: 1em;
+            height: 200px; /* Set a height for the header */
+            display: flex;
+            align-items: center;
+            justify-content: center;
         }
         nav {
             background-color: #555;
@@ -64,7 +70,7 @@
         /* Media query for smaller screens */
         @media (max-width: 600px) {
             header {
-                font-size: 1.5em; /* Adjust font size for smaller screens */
+                height: 150px; /* Adjust the height for smaller screens */
             }
         }
     </style>
@@ -72,6 +78,7 @@
 <body>
 
     <header>
+        <!-- You can remove the h1 tag if you want to display only the image -->
         <h1>སློབ་གསོའི་གཞིས་ཀ</h1>
     </header>
 
@@ -114,4 +121,11 @@
     </section>
 
     <section id="contact">
-        <h2
+        <h2>Contact Us</h2>
+        <```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ས
