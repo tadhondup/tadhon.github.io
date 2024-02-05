@@ -43,7 +43,7 @@
             text-align: center; /* Center the content within the section */
         }
         section img {
-            width: 200%; /* Make images fill the container width */
+            width: 100%; /* Make images fill the container width */
             max-width: 800px; /* Set a maximum width for the images */
             height: auto; /* Maintain aspect ratio */
             margin: 20px 0; /* Add margin for spacing */
@@ -59,6 +59,13 @@
             position: fixed;
             bottom: 0;
             width: 100%;
+        }
+
+        /* Media query for smaller screens */
+        @media (max-width: 600px) {
+            header {
+                font-size: 1.5em; /* Adjust font size for smaller screens */
+            }
         }
     </style>
 </head>
@@ -107,5 +114,4 @@
     </section>
 
     <section id="contact">
-        <h2>Contact Us</h2>
-        <
+        <h2
