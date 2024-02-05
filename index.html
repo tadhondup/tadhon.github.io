@@ -12,9 +12,6 @@
             box-sizing: border-box;
         }
         header {
-            background-image: url('your-image-path.jpg'); /* Replace 'your-image-path.jpg' with the actual path to your image */
-            background-size: cover;
-            background-position: center;
             color: white;
             text-align: center;
             padding: 1em;
@@ -22,6 +19,11 @@
             display: flex;
             align-items: center;
             justify-content: center;
+        }
+        header img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         nav {
             background-color: #555;
@@ -78,17 +80,14 @@
 <body>
 
     <header>
-        <!-- You can remove the h1 tag if you want to display only the image -->
-        <h1>སློབ་གསོའི་གཞིས་ཀ</h1>
+        <img src="https://your-image-path.jpg" alt="Header Image"> <!-- Replace 'your-image-path.jpg' with the actual path to your image -->
     </header>
 
     <nav>
         <ul>
             <li><a href="#home">གཙོ་ངོས།</a></li>
-            <li><a href="#home">བཀོལ་སྤྱོད་ལམ་སྟོན་གྱི་སྡེ།</a></li>
-            <li><a href="#services">ཞབས་ཞུའི་རྣམ་གྲངས།</a></li>
-            <li><a href="#services">ཤེས་བྱ་སྣ་ཚོགས།</a></li>
             <li><a href="#about">ང་ཚོའི་སྐོར།</a></li>
+            <li><a href="#services">ཞབས་ཞུའི་རྣམ་གྲངས།</a></li>
             <li><a href="#contact">འབྲེལ་གཏུགས་བྱ་ཡུལ།</a></li>
         </ul>
     </nav>
@@ -124,10 +123,11 @@
 
     <section id="contact">
         <h2>Contact Us</h2>
-        <```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ས
+    </section>
+
+    <footer>
+        <p>Footer content here.</p>
+    </footer>
+
+</body>
+</html>
